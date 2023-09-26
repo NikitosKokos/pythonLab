@@ -1,0 +1,5 @@
+user_name = input('User Name: ')
+first_name = input('First Name: ')
+user_age = input('User Age: ')
+# print('Age: ' + user_age + ' First Name: ' + first_name + 'User Name: ' + user_name)
+print(f"{user_age}, {first_name}, {user_age}")

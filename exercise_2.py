@@ -1,0 +1,1 @@
+print('Lab Basic Programming,\n\tLab week 1\n\t\tIntroduction to \“Python\”,\n\t\tWorking with variables.\nLab Basic Programming,\n\tLab week 2')
